@@ -8,7 +8,7 @@
       <th>🐳 Docker</th>
     </tr>
     <tr>
-      <td>
+      <td valign="top">
         <ul>
           <li><a href="https://github.com/schipplock/librcrc">librcrc</a></li>
         </ul>
