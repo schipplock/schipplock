@@ -3,10 +3,16 @@
 <table>
   <tbody>
     <tr>
+      <th>☕ Java</th>
       <th>🎛️ Linux</th>
       <th>🐳 Docker</th>
     </tr>
     <tr>
+      <td>
+        <ul>
+          <li><a href="https://github.com/schipplock/librcrc">librcrc</a></li>
+        </ul>
+      </td>
       <td>
         <ul>
           <li><a href="https://github.com/schipplock/asix">asix</a></li>
