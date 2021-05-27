@@ -10,6 +10,7 @@
     <tr>
       <td valign="top">
         <ul>
+          <li><a href="https://github.com/schipplock/rcrc">rcrc</a></li>
           <li><a href="https://github.com/schipplock/librcrc">librcrc</a></li>
           <li><a href="https://github.com/schipplock/eclipselink3-scaffolding">eclipselink3-scaffolding</a></li>
         </ul>
