@@ -1,7 +1,11 @@
-# Hi, I'm `Andreas Schipplock` 👋
+# Hallo, mein Name ist `Andreas Schipplock` 🤖
 
-I'm a software developer in the Ruhr area of NRW, Germany. I'm interested in writing usable and good software. I'm not interested in overly complex software.
+Wenigstens etwas weiß ich, das ist schon mal ein guter Anfang.
+Ich bin mir aber immer noch nicht sicher, was man hier schreiben soll.
 
-I tend to delete my projects from Github because I don't have use for them anymore. As a result, you will only find a small selection here. Software that I use myself.
+Eines ist aber sicher, das hier ist mein privater Bereich, den ich nutze, um kleine, private Projekte abzulegen.
+Da ich beruflich bereits mehr als ausgelastet bin, wird man hier aber nur kleine Experimente von mir finden.
+Ich bin kein `Rockstar` oder `Guru` 👀. Auch mein Tag hat nur 48 Stunden.
+Alles, was man hier findet, nutze ich selber. Wenn etwas fehlt, dann, weil ich es selber nicht brauche 😬.
 
-Let's be realistic. I write most of the software for my employer, which I can't publish here for obvious reasons.
+Mehr fällt mir nicht ein 🤥.
